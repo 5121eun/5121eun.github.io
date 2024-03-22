@@ -35,7 +35,7 @@ $$
 $$
 \begin{aligned}
 
-RMSE(x, y) = -\frac{1}{N}\sum_i^Ny_i * log(x_i)
+CE(x, y) = -\frac{1}{N}\sum_i^Ny_i * log(x_i)
 
 \end{aligned}
 $$
