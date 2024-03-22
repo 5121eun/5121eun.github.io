@@ -36,4 +36,15 @@ relu(x) = max(0, x)
 \end{aligned}
 $$
 
+## Softmax
+
+$$ 0 \leq x \leq 1  $$
+
+$$
+\begin{aligned}
+
+softmax(x_i) = \frac{exp(x_i)}{\sum_jexp(x_j)}
+
+\end{aligned}
+$$
 
