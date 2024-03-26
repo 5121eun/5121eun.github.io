@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Functions
+# AI_BASE
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
